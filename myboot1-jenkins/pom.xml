@@ -72,6 +72,12 @@
 		    <artifactId>jackson-databind</artifactId>
 		    <version>2.13.3</version>
 		</dependency>
+		<!-- db 정보 암호화 -->
+		<dependency>
+		    <groupId>com.github.ulisesbocchio</groupId>
+		    <artifactId>jasypt-spring-boot-starter</artifactId>
+		    <version>2.1.2</version>
+		</dependency>
 	</dependencies>
 
 	<build>

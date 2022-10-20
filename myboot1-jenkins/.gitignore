@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+#my adding
+src/main/java/com/example/demo/JasyptDB.java
