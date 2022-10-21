@@ -41,7 +41,7 @@ public class JasyptConfig {
 		System.out.println(encryptor.decrypt("4VteIjrPvNjsjP8jGHY7YD6C1Qh84GoZbHaBArmEyuC/6qHexRt8Mg=="));
 		System.out.println(encryptor.decrypt("ZzGjxaKtlRJlgYDiEOKVJw7ozOpD2ReisDjGGMv+IyY2TY5au3ZI5SAk9oxakRfwJ7iS5tbRejY="));
 		System.out.println(encryptor.decrypt("GyG0jGJTVTckF4w/6FjwCAJkUQlHd/k6"));
-		System.out.println(encryptor.decrypt("NduAEvSVgoCvOjyzLknjCuGW4dn3BHGe"));
+		System.out.println(encryptor.decrypt("4+MyWXqO0X2RKjObL0I3IJOt7WrRweSX"));
         return encryptor;
     }
  
